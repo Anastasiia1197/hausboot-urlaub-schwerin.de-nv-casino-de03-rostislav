@@ -9,4 +9,4 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://thepickledprocrastinator.com/sitemap.xml
+Sitemap: https://hausboot-urlaub-schwerin.de/sitemap.xml
